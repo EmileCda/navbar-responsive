@@ -1,0 +1,66 @@
+{
+  "AppName": "NavBar -responsive",
+
+  "navBar": [
+    {
+      "fr": "Accueil",
+      "en": "Home",
+      "es": "Inicio",
+      "link": "/"
+    },
+    
+    {
+      "fr": "Tâches",
+      "en": "Tasks",
+      "es": "Tareas",
+      "link": "/Task"
+    },
+    {
+      "fr": "Suivi",
+      "en": "Monitoring",
+      "es": "Monitorización",
+      "link": "/Monitoring"
+    },
+    {
+      "fr": "Calendrier",
+      "en": "Calendar",
+      "es": "Calendario",
+      "link": "/Calendar"
+    },
+    {
+      "fr": "Contact",
+      "en": "Contact",
+      "es": "Contacto",
+      "link": "/Contact"
+    },
+    {
+      "fr": "A propos",
+      "en": "About",
+      "es": "Acerca de",
+      "link": "/About"
+    },
+    {
+      "fr": "Test",
+      "en": "Test",
+      "es": "Prueba",
+      "link": "/Test"
+    }    
+  ],
+  "screenHome": [
+    {
+      "key": "screenName",
+      "fr": "Accueil",
+      "en": "Home",
+      "es": "[es] Home]"
+    }
+  ],
+
+  "screenTest": [
+    {
+      "key": "screenName",
+      "fr": "Test",
+      "en": "Test",
+      "es": "Test"
+    }
+  ]
+}
